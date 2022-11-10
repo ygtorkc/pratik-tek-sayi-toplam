@@ -1,0 +1,1 @@
+# pratik-tek-sayi-toplam
